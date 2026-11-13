@@ -2,15 +2,15 @@
 function Memories() {
   const photos = [
     {
-      image: "/public/hikmah1.jpg",
+      image: "/hikmah1.jpg",
       caption: "A beautiful memory"
     },
     {
-      image: "/public/hikmah3.jpg",
+      image: "/hikmah3.jpg",
       caption: "One to remember"
     },
     {
-      image: "/public/hikmah2.jpg",
+      image: "/hikmah2.jpg",
       caption: "A special moment"
     }
   ];
